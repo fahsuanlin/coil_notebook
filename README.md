@@ -4,6 +4,6 @@
 
 - Vendors for human coil at 7T
   
-Shajan Gunamony (nextgen 7T provider)
+-- ![Shajan Gunamony](https://mr-coiltech.co.uk/) (nextgen 7T provider)
 
-![Nova Medical](https://www.novamedical.com/) (Sole Siemens/GE provider) 
+-- ![Nova Medical](https://www.novamedical.com/) (Sole Siemens/GE provider) 
