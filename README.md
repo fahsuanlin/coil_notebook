@@ -2,7 +2,7 @@
 
 ## High-impedeance coil
 
--[A high-impedance detector-array glove for magnetic resonance imaging of the hand](https://pmc.ncbi.nlm.nih.gov/articles/PMC6405230/)
+- [A high-impedance detector-array glove for magnetic resonance imaging of the hand](https://pmc.ncbi.nlm.nih.gov/articles/PMC6405230/)
 
 - [3T 24-ch hand glove](https://pubmed.ncbi.nlm.nih.gov/34971464/)
 
